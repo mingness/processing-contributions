@@ -229,7 +229,7 @@ contributions:
     - 3D
 - id: 18
   source: http://www.ricardmarxer.com/fisica/download/fisica.txt
-  status: BROKEN
+  status: VALID
   type: library
   name: Fisica
   authors: '[Ricard Marxer](http://www.ricardmarxer.com/)'
@@ -241,7 +241,7 @@ contributions:
     to make it much easier to create physical models by exposing an object oriented
     API similar to [PPhys2D](http://pphys2d.jmcouillard.com/) physics library for
     Processing.
-  version: '16'
+  version: '15'
   prettyVersion: ''
   minRevision: 0
   maxRevision: 0
@@ -252,6 +252,9 @@ contributions:
   log:
   - file not found, status code 404 returned for url https://www.ricardmarxer.com/fisica/download/fisica.txt,
     2025-03-03
+  lastUpdated: 2025-04-29T04:53:14+0000
+  previousVersions:
+  - ''
 - id: 19
   source: http://www.smallbutdigital.com/releases/themidibus/themidibus-latest.txt
   status: VALID
@@ -561,7 +564,7 @@ contributions:
   download: http://mrfeinberg.com/patchy/patchy.zip
 - id: 38
   source: http://www.ricardmarxer.com/geomerative/geomerative.txt
-  status: BROKEN
+  status: VALID
   type: library
   name: Geomerative
   authors: '[Ricard Marxer](http://www.ricardmarxer.com/)'
@@ -574,7 +577,7 @@ contributions:
     in a more approchable way. Geomerative makes it easy to access the paths, the
     handles and the points, making it easy to develop generative typography and geometry
     pieces in Processing.
-  version: '43'
+  version: '40'
   prettyVersion: ''
   minRevision: 0
   maxRevision: 0
@@ -586,6 +589,9 @@ contributions:
   log:
   - file not found, status code 404 returned for url https://www.ricardmarxer.com/geomerative/geomerative.txt,
     2025-03-03
+  lastUpdated: 2025-04-29T04:53:14+0000
+  previousVersions:
+  - ''
 - id: 39
   source: https://github.com/codeanticode/tablet/releases/download/latestv2/Tablet.txt
   status: DEPRECATED
