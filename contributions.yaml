@@ -252,7 +252,6 @@ contributions:
   log:
   - file not found, status code 404 returned for url https://www.ricardmarxer.com/fisica/download/fisica.txt,
     2025-03-03
-  lastUpdated: 2025-04-29T04:53:14+0000
   previousVersions:
   - ''
 - id: 19
@@ -589,7 +588,6 @@ contributions:
   log:
   - file not found, status code 404 returned for url https://www.ricardmarxer.com/geomerative/geomerative.txt,
     2025-03-03
-  lastUpdated: 2025-04-29T04:53:14+0000
   previousVersions:
   - ''
 - id: 39
