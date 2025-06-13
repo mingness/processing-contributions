@@ -488,7 +488,7 @@ contributions:
 - id: 32
   source: 
     http://n.clavaud.free.fr/processing/library/picking/download/Picking.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: Picking
   authors: '[Nicolas Clavaud](http://n.clavaud.free.fr/)'
@@ -514,6 +514,7 @@ contributions:
   - url timeout, 2025-05-12
   - url timeout, 2025-05-15
   - url timeout, 2025-06-04
+  - url timeout, 2025-06-13
 - id: 33
   source: 
     http://ekeneijeoma.com/processing/ijeomamotion/download/ijeomamotion.txt
@@ -1131,7 +1132,7 @@ contributions:
 - id: 68
   source: 
     http://phi.lho.free.fr/programming/Processing/P8gGraphicsSVG/P8gGraphicsSVG.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: P8gGraphicsSVG
   authors: '[Philippe Lhoste](http://Phi.Lho.free.fr/)'
@@ -1153,6 +1154,7 @@ contributions:
     - Utilities
   log:
   - in broken conf
+  - url timeout, 2025-06-13
 - id: 69
   source: 
     https://raw.githubusercontent.com/nok/onedollar-unistroke-recognizer/master/download/OneDollarUnistrokeRecognizer.txt
