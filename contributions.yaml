@@ -353,7 +353,7 @@ contributions:
 - id: 24
   source: 
     https://github.com/firmata/processing/releases/download/latest/processing-arduino.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: Arduino (Firmata)
   authors: '[David A. Mellis](http://dam.mellis.org/)'
@@ -377,6 +377,9 @@ contributions:
   - file not found, status code 404 returned for url 
     https://release-assets.githubusercontent.com/github-production-release-asset/releases/3215061/7417b76a-a53d-11e6-8684-25d31bcf8b24.txt?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-06-11T05%3A04%3A13Z&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-06-11T04%3A57%3A37Z&ske=2025-06-11T05%3A58%3A28Z&sks=b&skv=2018-11-09&sig=UHEkxXS2%2FhKQVTuMNFTErfR9VtaR5%2FLq8Y%2Bgse0nLIQ%3D&jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc0OTYxODI1MywibmJmIjoxNzQ5NjE3OTUzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.R3a92l7RY_Lfu9nreFmiZnfGa5o54PZeQ_UMdWA9n3A&response-content-disposition=attachment%3B%20filename%3Dprocessing-arduino.txt&response-content-type=application%2Foctet-stream,
     2025-06-11
+  - file not found, status code 404 returned for url 
+    https://release-assets.githubusercontent.com/github-production-release-asset/releases/3215061/7417b76a-a53d-11e6-8684-25d31bcf8b24.txt?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-06-16T05%3A04%3A42Z&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-06-16T04%3A45%3A17Z&ske=2025-06-16T05%3A46%3A12Z&sks=b&skv=2018-11-09&sig=pOJybiVYojpLW%2Fn4GT7Bl7vq%2BbSH%2Fc9ZmAhu2mO91Yw%3D&jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1MDA1MDI4MiwibmJmIjoxNzUwMDQ5OTgyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.lVIjAwEp7dD5xPw3XtmGVU5-lAUk8q4G9c4PwsSdiZQ&response-content-disposition=attachment%3B%20filename%3Dprocessing-arduino.txt&response-content-type=application%2Foctet-stream,
+    2025-06-16
 - id: 25
   source: http://jorgecardoso.eu/processing/NXTComm/NXTComm.txt
   status: VALID
@@ -488,7 +491,7 @@ contributions:
 - id: 32
   source: 
     http://n.clavaud.free.fr/processing/library/picking/download/Picking.txt
-  status: BROKEN
+  status: VALID
   type: library
   name: Picking
   authors: '[Nicolas Clavaud](http://n.clavaud.free.fr/)'
@@ -4105,7 +4108,7 @@ contributions:
     - Hardware
 - id: 225
   source: http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/GazeTrack.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: 'GazeTrack: Eye-tracking for Processing (Tobii EyeX and 4C)'
   authors: '[Augusto Esteves](http://web.tecnico.ulisboa.pt/augusto.esteves/)'
@@ -4154,6 +4157,9 @@ contributions:
     http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/GazeTrack.txt, 
     2025-01-21
   - url timeout, 2025-04-28
+  - file not found, status code 503 returned for url 
+    http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/GazeTrack.txt, 
+    2025-06-16
 - id: 226
   source: 
     https://github.com/Apress/processing-for-android/releases/download/latest/processing-for-android-examples.txt
@@ -5068,7 +5074,7 @@ contributions:
     - Data
 - id: 271
   source: https://www.robertesler.com/software/Pd4P3.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: Pd4P3
   authors: '[Robert Esler](https://www.robertesler.com)'
@@ -5106,6 +5112,7 @@ contributions:
   - url timeout, 2025-05-31
   - url timeout, 2025-06-03
   - url timeout, 2025-06-08
+  - url timeout, 2025-06-16
 - id: 272
   source: 
     https://fox-gieg.com/patches/processing/libraries/latkProcessing/latkProcessing.txt
