@@ -221,7 +221,7 @@ contributions:
   - invalid file
 - id: 17
   source: http://mrfeinberg.com/peasycam/peasycam.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: PeasyCam
   authors: '[Jonathan Feinberg](http://mrfeinberg.com/)'
@@ -238,6 +238,8 @@ contributions:
   override:
     categories:
     - 3D
+  log:
+  - url timeout, 2025-06-22
 - id: 18
   source: http://www.ricardmarxer.com/fisica/download/fisica.txt
   status: VALID
@@ -600,10 +602,11 @@ contributions:
   - url timeout, 2025-03-19
 - id: 37
   source: http://mrfeinberg.com/patchy/patchy.txt
-  status: VALID
+  status: BROKEN
   type: library
   log:
   - invalid file
+  - url timeout, 2025-06-22
   name: Patchy
   authors: '[Jonathan Feinberg](http://mrfeinberg.com/)'
   url: http://mrfeinberg.com/patchy/
@@ -5080,7 +5083,7 @@ contributions:
     - Data
 - id: 271
   source: https://www.robertesler.com/software/Pd4P3.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: Pd4P3
   authors: '[Robert Esler](https://www.robertesler.com)'
@@ -5120,6 +5123,7 @@ contributions:
   - url timeout, 2025-06-08
   - url timeout, 2025-06-16
   - url timeout, 2025-06-20
+  - url timeout, 2025-06-22
 - id: 272
   source: 
     https://fox-gieg.com/patches/processing/libraries/latkProcessing/latkProcessing.txt
