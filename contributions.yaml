@@ -384,7 +384,7 @@ contributions:
     2025-06-16
 - id: 25
   source: http://jorgecardoso.eu/processing/NXTComm/NXTComm.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: NXTComm Processing
   authors: '[Jorge C. S. Cardoso](http://jorgecardoso.eu)'
@@ -407,10 +407,11 @@ contributions:
   - url timeout, 2025-05-18
   - url timeout, 2025-06-08
   - url timeout, 2025-06-20
+  - url timeout, 2025-06-26
 - id: 26
   source: 
     http://jorgecardoso.eu/processing/MindSetProcessing/download/MindsetProcessing.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: MindSet Processing
   authors: '[Jorge C. S. Cardoso](http://jorgecardoso.eu)'
@@ -439,9 +440,10 @@ contributions:
   - url timeout, 2025-05-18
   - url timeout, 2025-06-08
   - url timeout, 2025-06-20
+  - url timeout, 2025-06-26
 - id: 27
   source: http://jorgecardoso.eu/processing/ID3/ID3.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: ID3
   authors: '[Jorge C. S. Cardoso](http://jorgecardoso.eu)'
@@ -464,6 +466,7 @@ contributions:
   - url timeout, 2025-05-18
   - url timeout, 2025-06-08
   - url timeout, 2025-06-20
+  - url timeout, 2025-06-26
 - id: 28
   source: 
     http://projects.formatlos.de/ambientlightsensor/download/AmbientLightSensor.txt
@@ -496,7 +499,7 @@ contributions:
 - id: 32
   source: 
     http://n.clavaud.free.fr/processing/library/picking/download/Picking.txt
-  status: BROKEN
+  status: VALID
   type: library
   name: Picking
   authors: '[Nicolas Clavaud](http://n.clavaud.free.fr/)'
@@ -1143,7 +1146,7 @@ contributions:
 - id: 68
   source: 
     http://phi.lho.free.fr/programming/Processing/P8gGraphicsSVG/P8gGraphicsSVG.txt
-  status: BROKEN
+  status: VALID
   type: library
   name: P8gGraphicsSVG
   authors: '[Philippe Lhoste](http://Phi.Lho.free.fr/)'
@@ -2837,7 +2840,7 @@ contributions:
 - id: 164
   source: 
     http://jorgecardoso.eu/processing/eyetribeprocessing/download/EyeTribeProcessing.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: Eye Tribe for Processing
   authors: '[Jorge C. S. Cardoso](http://jorgecardoso.eu)'
@@ -2861,6 +2864,7 @@ contributions:
   - url timeout, 2025-05-18
   - url timeout, 2025-06-08
   - url timeout, 2025-06-20
+  - url timeout, 2025-06-26
 - id: 165
   source: https://processing.org/handbook/handbook_2e.txt
   status: BROKEN
@@ -4031,7 +4035,7 @@ contributions:
     https://github.com/processing-r/Processing.R/releases/latest/download/RLangMode.zip
 - id: 221
   source: http://jonathan.dahlberg.media/ecc/ecc.txt
-  status: VALID
+  status: BROKEN
   type: tool
   name: Extended Code Completion
   authors: '[Jonathan Dahlberg](http://jonathan.dahlberg.media/)'
@@ -4059,6 +4063,7 @@ contributions:
   - url timeout, 2025-06-06
   - url timeout, 2025-06-08
   - url timeout, 2025-06-20
+  - url timeout, 2025-06-26
 - id: 222
   source: https://pierdr.github.io/tramontanaCV/download/tramontanaCV.txt
   status: VALID
@@ -4118,7 +4123,7 @@ contributions:
     - Hardware
 - id: 225
   source: http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/GazeTrack.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: 'GazeTrack: Eye-tracking for Processing (Tobii EyeX and 4C)'
   authors: '[Augusto Esteves](http://web.tecnico.ulisboa.pt/augusto.esteves/)'
@@ -4170,6 +4175,9 @@ contributions:
   - file not found, status code 503 returned for url 
     http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/GazeTrack.txt, 
     2025-06-16
+  - file not found, status code 503 returned for url 
+    http://web.tecnico.ulisboa.pt/augusto.esteves/GazeTrack/GazeTrack.txt, 
+    2025-06-26
 - id: 226
   source: 
     https://github.com/Apress/processing-for-android/releases/download/latest/processing-for-android-examples.txt
@@ -4904,7 +4912,7 @@ contributions:
     - Data
 - id: 263
   source: http://jonathan.dahlberg.media/processing2js/Processing2JSTool.txt
-  status: VALID
+  status: BROKEN
   type: tool
   name: Processing2JS
   authors: '[Jonathan Dahlberg](http://jonathan.dahlberg.media)'
@@ -4931,6 +4939,7 @@ contributions:
   - url timeout, 2025-06-06
   - url timeout, 2025-06-08
   - url timeout, 2025-06-20
+  - url timeout, 2025-06-26
 - id: 264
   source: 
     https://github.com/dennisppaul/wellen/releases/latest/download/wellen.txt
@@ -5085,7 +5094,7 @@ contributions:
     - Data
 - id: 271
   source: https://www.robertesler.com/software/Pd4P3.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: Pd4P3
   authors: '[Robert Esler](https://www.robertesler.com)'
@@ -5127,6 +5136,7 @@ contributions:
   - url timeout, 2025-06-20
   - url timeout, 2025-06-22
   - url timeout, 2025-06-24
+  - url timeout, 2025-06-26
 - id: 272
   source: 
     https://fox-gieg.com/patches/processing/libraries/latkProcessing/latkProcessing.txt
