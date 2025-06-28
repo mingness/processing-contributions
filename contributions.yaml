@@ -2056,7 +2056,7 @@ contributions:
     http://galsasson.com/tweakmode/tweakmode.txt%20
 - id: 123
   source: http://igeo.jp/igeo.txt
-  status: VALID
+  status: BROKEN
   type: library
   name: iGeo
   authors: '[Satoru Sugihara](http://atlv.org/)'
@@ -2080,6 +2080,7 @@ contributions:
   - in broken conf
   - url timeout, 2025-03-13
   - url timeout, 2025-04-02
+  - url timeout, 2025-06-28
 - id: 124
   source: ' http://download.processing.org/pdeX.txt '
   status: BROKEN
