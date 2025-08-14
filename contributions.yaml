@@ -4065,7 +4065,7 @@ contributions:
     https://github.com/processing-r/Processing.R/releases/latest/download/RLangMode.zip
 - id: 221
   source: http://jonathan.dahlberg.media/ecc/ecc.txt
-  status: BROKEN
+  status: VALID
   type: tool
   name: Extended Code Completion
   authors: '[Jonathan Dahlberg](http://jonathan.dahlberg.media/)'
@@ -4951,7 +4951,7 @@ contributions:
     - Data
 - id: 263
   source: http://jonathan.dahlberg.media/processing2js/Processing2JSTool.txt
-  status: BROKEN
+  status: VALID
   type: tool
   name: Processing2JS
   authors: '[Jonathan Dahlberg](http://jonathan.dahlberg.media)'
@@ -5489,14 +5489,17 @@ contributions:
   - Utilities
   sentence: Generate JavaDoc for sketch.
   paragraph: ''
-  version: '7'
-  prettyVersion: 1.0.6
+  version: '8'
+  prettyVersion: 1.0.7
   minRevision: 0
   maxRevision: 0
   download: 
     https://github.com/hkiel/JavaDoc/releases/latest/download/JavaDoc.zip
   override:
     categories:
+  lastUpdated: 2025-08-14T04:58:52+0000
+  previousVersions:
+  - 1.0.6
 - id: 286
   source: 
     https://github.com/KrabCode/LazyGui/releases/download/latest/LazyGui.txt
